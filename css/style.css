@@ -184,8 +184,8 @@ hr {
     width: 100%;
     padding: 0;
     text-align: center;
-    background: url(../img/head.png) no-repeat center bottom;
-    background-color: #984447;
+    background-color: url(../img/head.png) no-repeat center bottom;
+    /* background-color: #984447; */
     background-size: cover;
 }
 
